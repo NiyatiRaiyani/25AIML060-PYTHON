@@ -1,0 +1,4 @@
+NUM = 5
+    NUM2 = 0
+    D = NUM / NUM2
+    
