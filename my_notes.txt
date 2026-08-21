@@ -1,0 +1,2 @@
+Today I learned about file handling in Python.
+It is very useful for reading and writng files.
