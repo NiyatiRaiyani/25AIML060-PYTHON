@@ -1,0 +1,6 @@
+title,author,genre,year,status
+Atomic Habits,James Clear,Self-Help,2018,read
+The Alchemist,Paulo Coelho,Fiction,1988,unread
+Sapiens,Yuval Noah Harari,History,2011,read
+Deep Work,Cal Newport,Productivity,2016,unread
+Becoming,Michelle Obama,Biography,2018,read
